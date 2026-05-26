@@ -1,6 +1,6 @@
 # Using-the-Autopsy-retrieve-the-deleted-files
-### Name : THARSHAN R
-### Reg No: 212223223004
+### Name : DHARSAN R
+### Reg No: 212223100003
 ## AIM:
 To use Autopsy in Kali Linux to retrieve and analyze deleted files from a disk image.
 
@@ -78,7 +78,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## Output :
 ### Folder before deleting the files
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5420d99b-86eb-48ee-8249-b20c4317546b" />
+![dfdi11](https://github.com/user-attachments/assets/a9440e46-eb53-4703-b6f4-34850a76e0b6)
 
 
 ### Folder after deleting the files
