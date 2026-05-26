@@ -63,7 +63,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 
 
-![a6](https://github.com/user-attachments/assets/f7063263-697f-485f-ad92-ccb0e8a17552)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/37e819e4-bea7-4914-84bb-0ff247deffb8" />
 
 
 - Click **Deleted Files** → Find your deleted images.  
